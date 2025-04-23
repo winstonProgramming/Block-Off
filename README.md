@@ -6,5 +6,5 @@
 
 <p>https://onlinegdb.com/R2MnOW4wu</p>
 
-<img src="block off 1.png">
-<img src="block off 2.png">
+<img src="resources/block-off-1.png">
+<img src="resources/block-off-2.png">
