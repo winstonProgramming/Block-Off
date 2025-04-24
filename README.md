@@ -4,7 +4,7 @@
 
 <p>I built Block Off using Java as a project for AP CSA. Have fun playing!</p>
 
-<p>https://onlinegdb.com/R2MnOW4wu</p>
+<p>https://onlinegdb.com/JyOOkVSMK</p>
 
 <img src="resources/block-off-1.png">
 <img src="resources/block-off-2.png">
